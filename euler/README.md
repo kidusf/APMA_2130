@@ -18,7 +18,9 @@ and the final point.
 10. Modify the differential equation if needed in terms of x0 and y_m
 11. Save the file and click run on your IDE or type python eulers.py in the terminal 
 12. The program will ask for an x0, y0, point of approximation, and step size. Make sure you enter the values that are given in the problem.
-13. A plot should be generated similar to the image below and the approximate points will be printed out in the output
+13. A plot should be generated in the interface shown in the image below and the approximate points will be printed out in the output
+![image](https://user-images.githubusercontent.com/80177055/150882297-5619b90d-db2e-43f4-b39e-0219ee9fd942.png)
+
 
 **Here are some common functions that you will be using**
 1. np.sin(x0) is sine
